@@ -22,8 +22,13 @@ Compartilhar minha jornada de estudos em Python, praticando cada desafio e regis
 | Desafio | Título                   | Status |
 |---------|--------------------------|--------|
 | 001     | Olá, Mundo!              | ✅      |
-| 002     | Entrada de nome          | ⬜       |
-| 003     | Soma de dois números     | ⬜       |
+| 002     | Entrada de nome          | ✅       |
+| 003     | Soma de dois números     | ✅      |
+| 004     | Dissecando uma Variável  | ⬜     |
+| 005     | Antecessor e Sucessor    | ⬜     |
+| 006     | Dobro, Triplo,Raiz Quadrada | ⬜     |
+| 007     | Médida Aritmética        | ⬜     |
+| 008     | Conversor de Medidas     | ⬜     |
 | ...     |(continuação dos desafios) |        |
 
 ## 🚀 Como usar
