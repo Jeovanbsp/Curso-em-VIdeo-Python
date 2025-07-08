@@ -1,0 +1,33 @@
+# Curso em Vídeo - Python (Gustavo Guanabara)
+
+Este repositório contém as atividades desenvolvidas durante o Curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1/), com anotações e explicações passo a passo para reforçar o aprendizado.
+
+## 🎯 Objetivo
+
+Compartilhar minha jornada de estudos em Python, praticando cada desafio e registrando o que aprendo com comentários no código.
+
+## 📚 Conteúdo abordado
+
+- Fundamentos do Python
+- Tipos primitivos
+- Operações matemáticas
+- Entrada e saída de dados
+- Condições (if, else, elif)
+- Laços de repetição (for, while)
+- Listas, tuplas e dicionários
+- Funções e módulos
+
+## ✅ Progresso
+
+| Desafio | Título                   | Status |
+|---------|--------------------------|--------|
+| 001     | Olá, Mundo!              | ✅      |
+| 002     | Entrada de nome          | ⬜       |
+| 003     | Soma de dois números     | ⬜       |
+| ...     |(continuação dos desafios) |        |
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/curso-em-video-python.git
