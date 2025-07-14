@@ -28,10 +28,10 @@ Compartilhar minha jornada de estudos em Python, praticando cada desafio e regis
 |Operadores Aritméticos                          |
 | 005     | Antecessor e Sucessor       | ✅     |
 | 006     | Dobro, Triplo,Raiz Quadrada | ✅     |
-| 007     | Médida Aritmética           | ⬜     |
-| 008     | Conversor de Medidas        | ⬜     |
-| 009     | Tabuada                     | ⬜     |
-| 010     | Conversor de Moedas         | ⬜     |
+| 007     | Médida Aritmética           | ✅     |
+| 008     | Conversor de Medidas        | ✅     |
+| 009     | Tabuada                     | ✅     |
+| 010     | Conversor de Moedas         | ✅     |
 | 011     | Pintando Parede             | ⬜     |
 | 012     | Calculando Descontos        | ⬜     |
 | 013     | Reajuste Salarial           | ⬜     |
