@@ -33,10 +33,10 @@ Compartilhar minha jornada de estudos em Python, praticando cada desafio e regis
 | 009     | Tabuada                                      | ✅     |
 | 010     | Conversor de Moedas                          | ✅     |
 | 011     | Pintando Parede                              | ✅     |
-| 012     | Calculando Descontos                         | ⬜     |
-| 013     | Reajuste Salarial                            | ⬜     |
-| 014     | Conversor de Temperatura                     | ⬜     |
-| 015     | Aluguel de Carros                            | ⬜     |
+| 012     | Calculando Descontos                         | ✅     |
+| 013     | Reajuste Salarial                            | ✅     |
+| 014     | Conversor de Temperatura                     | ✅     |
+| 015     | Aluguel de Carros                            | ✅     |
 |Utilizando Módulos                                               |
 | 016     | Quebrando um número                          | ⬜     |
 | 017     | Catetos e Hipotenusa                         | ⬜     |
