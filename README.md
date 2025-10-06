@@ -38,12 +38,12 @@ Compartilhar minha jornada de estudos em Python, praticando cada desafio e regis
 | 014     | Conversor de Temperatura                     | ✅     |
 | 015     | Aluguel de Carros                            | ✅     |
 |Utilizando Módulos                                               |
-| 016     | Quebrando um número                          | ⬜     |
-| 017     | Catetos e Hipotenusa                         | ⬜     |
-| 018     | Seno, Cosseno e Tangente                     | ⬜     |
-| 019     | Sorteando um Item da Lista                   | ⬜     |
-| 020     | Sorteando uma ordem na lista                 | ⬜     |
-| 021     | Tocando um MP3                               | ⬜     |
+| 016     | Quebrando um número                          | ✅     |
+| 017     | Catetos e Hipotenusa                         | ✅     |
+| 018     | Seno, Cosseno e Tangente                     | ✅     |
+| 019     | Sorteando um Item da Lista                   | ✅     |
+| 020     | Sorteando uma ordem na lista                 | ✅     |
+| 021     | Tocando um MP3                               | ✅     |
 |Manipulando Texto                                                |
 | 022     | Analisador de Texto                          | ⬜     |
 | 023     | Separando digitos de um número               | ⬜     |
